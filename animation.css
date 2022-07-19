@@ -1,0 +1,252 @@
+/*
+The CSS export should solely be used as a reference.
+For a more detailed animation export the JSON file should be used.
+*/
+#Ellipse_2 {
+    transform: translateX(-50%) translateY(-100%);
+    animation: Ellipse_2__y__1 164ms 0ms linear forwards, Ellipse_2__y__2 178ms 164ms ease-in-out forwards, Ellipse_2__y__3 62ms 342ms ease-in-out forwards, Ellipse_2__y__4 122ms 404ms ease-in-out forwards, Ellipse_2__y__5 40ms 526ms ease-in-out forwards, Ellipse_2__y__6 194ms 566ms ease-in-out forwards, Ellipse_2__y__7 65ms 760ms ease-in-out forwards, Ellipse_2__y__8 99ms 825ms ease-in-out forwards, Ellipse_2__y__9 223ms 924ms ease-in-out forwards, Ellipse_2__y__10 58ms 1147ms ease-in-out forwards, Ellipse_2__y__11 2295ms 1205ms linear forwards, Ellipse_2__height__1 86ms 0ms ease-in-out forwards, Ellipse_2__height__2 210ms 86ms ease-in-out forwards, Ellipse_2__height__3 60ms 296ms ease-in-out forwards, Ellipse_2__height__4 48ms 356ms ease-in-out forwards, Ellipse_2__height__5 115ms 404ms ease-in-out forwards, Ellipse_2__height__6 46ms 519ms ease-in-out forwards, Ellipse_2__height__7 27ms 565ms ease-in-out forwards, Ellipse_2__height__8 105ms 592ms ease-in-out forwards, Ellipse_2__height__9 125ms 697ms ease-in-out forwards, Ellipse_2__height__10 75ms 822ms ease-in-out forwards, Ellipse_2__height__11 29ms 897ms ease-in-out forwards, Ellipse_2__height__12 57ms 926ms ease-in-out forwards, Ellipse_2__height__13 162ms 983ms ease-in-out forwards, Ellipse_2__height__14 60ms 1145ms ease-in-out forwards, Ellipse_2__height__15 37ms 1205ms ease-in-out forwards, Ellipse_2__height__16 2258ms 1242ms linear forwards;
+}
+
+@keyframes Ellipse_2__y__1 {
+    from {
+        top: 12.5px;
+    }
+
+    to {
+        top: 12.5px;
+    }
+}
+@keyframes Ellipse_2__y__2 {
+    from {
+        top: 12.5px;
+    }
+
+    to {
+        top: 10px;
+    }
+}
+@keyframes Ellipse_2__y__3 {
+    from {
+        top: 10px;
+    }
+
+    to {
+        top: 10px;
+    }
+}
+@keyframes Ellipse_2__y__4 {
+    from {
+        top: 10px;
+    }
+
+    to {
+        top: 12.5px;
+    }
+}
+@keyframes Ellipse_2__y__5 {
+    from {
+        top: 12.5px;
+    }
+
+    to {
+        top: 12.5px;
+    }
+}
+@keyframes Ellipse_2__y__6 {
+    from {
+        top: 12.5px;
+    }
+
+    to {
+        top: 11px;
+    }
+}
+@keyframes Ellipse_2__y__7 {
+    from {
+        top: 11px;
+    }
+
+    to {
+        top: 11px;
+    }
+}
+@keyframes Ellipse_2__y__8 {
+    from {
+        top: 11px;
+    }
+
+    to {
+        top: 12.5px;
+    }
+}
+@keyframes Ellipse_2__y__9 {
+    from {
+        top: 12.5px;
+    }
+
+    to {
+        top: 12px;
+    }
+}
+@keyframes Ellipse_2__y__10 {
+    from {
+        top: 12px;
+    }
+
+    to {
+        top: 12.5px;
+    }
+}
+@keyframes Ellipse_2__y__11 {
+    from {
+        top: 12.5px;
+    }
+
+    to {
+        top: 12.5px;
+    }
+}
+@keyframes Ellipse_2__height__1 {
+    from {
+        height: 5px;
+    }
+
+    to {
+        height: 4px;
+    }
+}
+@keyframes Ellipse_2__height__2 {
+    from {
+        height: 4px;
+    }
+
+    to {
+        height: 6px;
+    }
+}
+@keyframes Ellipse_2__height__3 {
+    from {
+        height: 6px;
+    }
+
+    to {
+        height: 5px;
+    }
+}
+@keyframes Ellipse_2__height__4 {
+    from {
+        height: 5px;
+    }
+
+    to {
+        height: 5px;
+    }
+}
+@keyframes Ellipse_2__height__5 {
+    from {
+        height: 5px;
+    }
+
+    to {
+        height: 6px;
+    }
+}
+@keyframes Ellipse_2__height__6 {
+    from {
+        height: 6px;
+    }
+
+    to {
+        height: 5px;
+    }
+}
+@keyframes Ellipse_2__height__7 {
+    from {
+        height: 5px;
+    }
+
+    to {
+        height: 4px;
+    }
+}
+@keyframes Ellipse_2__height__8 {
+    from {
+        height: 4px;
+    }
+
+    to {
+        height: 5.5px;
+    }
+}
+@keyframes Ellipse_2__height__9 {
+    from {
+        height: 5.5px;
+    }
+
+    to {
+        height: 5px;
+    }
+}
+@keyframes Ellipse_2__height__10 {
+    from {
+        height: 5px;
+    }
+
+    to {
+        height: 5.5px;
+    }
+}
+@keyframes Ellipse_2__height__11 {
+    from {
+        height: 5.5px;
+    }
+
+    to {
+        height: 5px;
+    }
+}
+@keyframes Ellipse_2__height__12 {
+    from {
+        height: 5px;
+    }
+
+    to {
+        height: 4.5px;
+    }
+}
+@keyframes Ellipse_2__height__13 {
+    from {
+        height: 4.5px;
+    }
+
+    to {
+        height: 5px;
+    }
+}
+@keyframes Ellipse_2__height__14 {
+    from {
+        height: 5px;
+    }
+
+    to {
+        height: 4.75px;
+    }
+}
+@keyframes Ellipse_2__height__15 {
+    from {
+        height: 4.75px;
+    }
+
+    to {
+        height: 5px;
+    }
+}
+@keyframes Ellipse_2__height__16 {
+    from {
+        height: 5px;
+    }
+
+    to {
+        height: 5px;
+    }
+}
